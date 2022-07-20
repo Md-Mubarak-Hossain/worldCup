@@ -146,11 +146,12 @@ match
     width: 100%;
     display: grid;
     grid-template-columns: 30% 30% 30%;
+
 }
 
 .german-france {
 
-    margin: 10px 10px;
+    margin: 5px 5px;
     padding: 20px 0px;
     display: flex;
     flex-direction: column;
@@ -175,8 +176,8 @@ match
 }
 
 .vs img {
-    margin: 0px 20px;
-    width: 100px;
+    margin: 0px 10px;
+    width: 45%;
 }
 
 /* ......................................
