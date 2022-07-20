@@ -189,6 +189,32 @@ match
     width: 30%;
 }
 
+
+.view-area {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.view-all-button {
+    text-align: center;
+    width: 90px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin-top: 60px;
+    background-color: rgb(209, 58, 58);
+}
+
+.view {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
 /* ......................................
 
 main section end

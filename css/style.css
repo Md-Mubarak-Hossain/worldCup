@@ -201,6 +201,29 @@ main section start
     font-weight: 400;
 }
 
+.view-area {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 90px;
+    justify-content: center;
+}
+
+.view-all-button {
+    text-align: center;
+    width: 90px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin-top: 60px;
+    background-color: rgb(209, 58, 58);
+}
+
+.view {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
 
 /* ......................................
 
