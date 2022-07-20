@@ -151,6 +151,11 @@ Responsive media query
 
     }
 
+    .header-heading {
+
+        font-size: 48px;
+    }
+
     .main {
         display: flex;
         flex-direction: column;
