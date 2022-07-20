@@ -1,0 +1,9 @@
+.watch-live-button {
+    transition: transform 3s ease-in-out 1s;
+}
+
+
+.header-container:hover .watch-live-button {
+    transform: rotate(360deg);
+
+}
